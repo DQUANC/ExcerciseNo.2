@@ -1,0 +1,14 @@
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.AssemblyInfoInputs.cache
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.AssemblyInfo.cs
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\bin\Debug\net7.0\ExecrciseNo2.exe
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\bin\Debug\net7.0\ExecrciseNo2.deps.json
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\bin\Debug\net7.0\ExecrciseNo2.runtimeconfig.json
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\bin\Debug\net7.0\ExecrciseNo2.dll
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\bin\Debug\net7.0\ExecrciseNo2.pdb
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.dll
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\refint\ExecrciseNo2.dll
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.pdb
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ExecrciseNo2.genruntimeconfig.cache
+C:\Users\daniq\Documents\Trabajo\Projects\ExecrciseNo2\obj\Debug\net7.0\ref\ExecrciseNo2.dll
